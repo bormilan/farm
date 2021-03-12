@@ -1,0 +1,24 @@
+Felhasználói Dokumentáció
+EZ egy játék, amiben a játék célja, hogy minél több pénzt gyűjtsön össze, amit virágok ültetésével és aratásával tud szerezni.
+A játék menüjében három választási lehetőség van, az elő egy új játék indítása, második egy korábbi játékállás betöltése és a 
+harmadik pedig a szabályok megjelenítése hogy a felhasználó el tudja olvasni a játék szabályait.
+Az új játék gombra kattintva kiválasztható a földek száma, 2x2,2x4 és 4x4 db föld. Ezután megjelenik a játék felület.
+A játék bal felső illetve középső részén láthatjuk földjeinket, alul egy menü szalagot és jobb oldalt is egy másikat, illetve a 
+jobb alsó sarokban a menü/kilépés gombot.
+Többféle lehetőség van. Az alul látható menü szalagon  lehet kiválasztani mit lehet csinálni. Van több lehetőség is:
+•	Virágot ültetni
+•	Virágot öntözni
+•	Virágot learatni
+És egy negyedik lehetőség pedig egy föld kikapálása, amit mindig az egér jobb gombjának lenyomásával lehet elérni.
+A virág ültetése funkció bekapcsolása esetén a jobb oldalt látható virágok közül lehet választani , melyek árai balra mellettük van feltüntetve. 
+Bal kattintással lehet kiválasztani az adott virágot, ekkor a  pénz számlálón megjelenik a kiválasztott virág árával kevesebb összeg mint amennyi 
+eddig volt. majd ezután el lehet azokat a magokat ültetni egy tetszőleges földre. Hogyha nincs elég pénz egy mag vásárlásához, azt jobb alul egy szöveg 
+jelzi és nem lehet elültetni. Az öntözés funkciót csak olyan födön lehet alkalmazni ami már be van vetve, de még nincs megöntözve. Erre azért van szükség, 
+mert ha nem lesz megöntözve egy föld az idő alatt amíg kinő, akkor nem kinőtt virágok fognak megjelenni hanem a föld kiüresedik mert a termény elrohadt. 
+Az aratás funkciót pedig csak akkor lehet használni ha egy földön kinőttek a virágok, ekkor aratási módban kattintásra kiüresedik a földünk, és a virágokért 
+megkapjuk az ültetési áruk kétszeresét.
+A menü/kilépés gombra kattintva ki lehet választani hogy mentés nélkül lépjen ki a program, vagy egy kiválasztott mentési helyre való mentés után lépjen-e ki. 
+A kívánt mentési helyre kattintva meg kell adni egy tetszőleges nevet, szót és utána a program visszamegy a főmenübe. Abban az esetben ha  rossz formátumú karaktert 
+kap a program, egyből törli az input tartalmát, mert csak jó formátumú szót tárol el. Ez a szó/név nem tartalmazhat nagy betűt, számot vagy specális karaktert.
+Vigyázni kell hogy a virágok meg legyenek öntözve, különben el veszhet minden pénz és termény, így mát nem lesz lehetőség semmit csinálni a játékban.
+
